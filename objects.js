@@ -7,4 +7,4 @@ function updatePlaylist (object, artistName, songTitle ){
 
 }
 
-updatePlaylist(playlist, Midieval,'Laggaaee' )
+updatePlaylist(playlist, 'Midieval','Laggaaee' )
