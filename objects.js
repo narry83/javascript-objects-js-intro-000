@@ -10,8 +10,10 @@ function updatePlaylist (object, artistName, songTitle ){
 function removeFromPlaylist  (object, artistName ){
   delete object.artistName;
 
-  return updatePlaylist
+  return object
 
 }
 
-updatePlaylist(playlist, 'Midieval','Laggaaee' )
+updatePlaylist(playlist, 'Midieval','Laggaaee' );
+
+removeFromPlaylist (playlist, 'Midieval')
