@@ -16,4 +16,4 @@ function removeFromPlaylist  (object, artistName ){
 
 updatePlaylist(playlist, 'Midieval','Laggaaee' );
 
-removeFromPlaylist (playlist, 'Midieval')
+//removeFromPlaylist (playlist, 'Midieval')
