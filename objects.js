@@ -1,3 +1,6 @@
 var playlist={Ganga:"Carry you home"};
 
-function updatePlaylist (artistName, songTitle )
+function updatePlaylist (artistName, songTitle ){
+
+
+}
